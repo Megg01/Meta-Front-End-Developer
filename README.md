@@ -1,5 +1,7 @@
 # Meta Front-End Developer Professional Certificate
 
+GitHub
+
 <img src="./meta-logo.png" width=150>
 
 - This repo contains all of my assignments from the Coursera Professional Certificate: [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
